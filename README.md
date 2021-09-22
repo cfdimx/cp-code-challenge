@@ -22,23 +22,29 @@ catálogo códigos postales:
     {
         “codigoPostal” : “45110”,
         “impuestosPermitidos” : [
-            “tasa” : 0.16
-            “tipo” : “traslado”
-    ]
+            {
+                “tasa” : 0.16,
+                “tipo” : “traslado”
+            }  
+        ]
     },
     {
         “codigoPostal” : “45058”,
         “impuestosPermitidos” : [
-            “tasa” : 0.08
-            “tipo” : “traslado”
-    ]
+            {
+                “tasa” : 0.08,
+                “tipo” : “traslado”
+            }  
+        ]
     },
     {
         “codigoPostal” : “45058”,
         “impuestosPermitidos” : [
-            “tasa” : 0.08
-            “tipo” : “traslado”
-    ]
+            {
+                “tasa” : 0.16,
+                “tipo” : “traslado”
+            }  
+        ]
     }
 ]
 ```
