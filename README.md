@@ -4,7 +4,7 @@
 ```
 {
 	“codigoPostal” : “45110”,
-	“Impuestos”: {
+	“impuestos”: {
 		“tasa”: 0.08,
 		“tipo”: “traslado”
     }
